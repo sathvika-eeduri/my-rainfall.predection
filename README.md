@@ -1,1 +1,1 @@
-# my-rainfall.predection
+# about my rainfall.predection on GitHub
